@@ -21,4 +21,4 @@ All of our repositories, except the Web Application[^1], are publicly available.
 If you are interested in helping or want to know more about us, please hop into our [discord server](https://discord.com/invite/EhVPmRK7P4)🧙.
 
 
-[^1] Private for now but like all other of our repositories is licensed under a MIT license.
+[^1]: Private for now but like all other of our repositories is licensed under a MIT license.
