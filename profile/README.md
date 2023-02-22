@@ -13,8 +13,8 @@ All of our repositories, except the Web Application, are publicly available. You
 
 - Report bugs.
 - Creating pull requests. 
-- Discussing the current state of the project.
 - Submitting fixes.
 - Proposing new features.
+- Discussing the current state of the project.
 
 If you are interested in helping or want to know more about us, please hop into our [discord server](https://discord.com/invite/EhVPmRK7P4) 🧙.
