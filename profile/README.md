@@ -9,7 +9,7 @@ we hope to make it easier for the general public to hold big polluters accountab
 
 ### How to contribute
 
-All of our repositories, except the Web Application, are publicly available. You can, therefore, easily contribute to the cause by:
+All of our repositories, except the Web Application[^1], are publicly available. You can, therefore, easily contribute to the cause by:
 
 - Report bugs.
 - Creating pull requests. 
@@ -19,3 +19,6 @@ All of our repositories, except the Web Application, are publicly available. You
 - [Discussing the current state of the project](https://discord.com/invite/EhVPmRK7P4).
 
 If you are interested in helping or want to know more about us, please hop into our [discord server](https://discord.com/invite/EhVPmRK7P4)🧙.
+
+
+[^1] Private for now but like all other of our repositories is licensed under a MIT license.
