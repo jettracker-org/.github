@@ -15,6 +15,7 @@ All of our repositories, except the Web Application[^1], are publicly available.
 - Creating pull requests. 
 - Submitting fixes.
 - Proposing new features.
+- Becoming a maintainer.
 - [Ask or answer questions](https://github.com/jettracker-org/community).
 - [Discussing the current state of the project](https://discord.com/invite/EhVPmRK7P4).
 
