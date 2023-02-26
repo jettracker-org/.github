@@ -10,8 +10,8 @@ we hope to make it easier for the general public to hold big polluters accountab
 ### Main repositories
 
 - **jettracker-org/jettracker-io (currenty private[^1])**: Our main App.
-- [jettracker-org/plane-finder](https://github.com/jettracker-org/plane-finder): A npm package that can be used to find information about specific planes.
-- [jettracker-org/flight-emissions](https://github.com/jettracker-org/flight-emissions): A npm package that can be used to calculate the CO2 emisions of flights.
+- [jettracker-org/plane-finder](https://github.com/jettracker-org/plane-finder): An npm package that can be used to find information about planes.
+- [jettracker-org/flight-emissions](https://github.com/jettracker-org/flight-emissions): An npm package that can be used to calculate the CO2 emissions of flights.
 
 ### How to contribute
 
