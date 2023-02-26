@@ -7,6 +7,12 @@ we hope to make it easier for the general public to hold big polluters accountab
 - 🙋‍♀️ We are a community-based project that is open to all people, ideas and contributions.
 - 🌍 We love to connect and collaborate with journalists, developers and other organizations fighting climate change.
 
+### Main repositories
+
+- **jettracker-org/jettracker-io (currenty private[^1])**: Our main App.
+- [jettracker-org/plane-finder](https://github.com/jettracker-org/plane-finder): A npm package that can be used to find information about specific planes.
+- [jettracker-org/flight-emissions](https://github.com/jettracker-org/flight-emissions): A npm package that can be used to calculate the CO2 emisions of flights.
+
 ### How to contribute
 
 All of our repositories, except the Web Application[^1], are publicly available. You can, therefore, easily contribute to the cause by:
