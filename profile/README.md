@@ -3,7 +3,7 @@
 Welcome to the JetTracker organization on GitHub, an open-source-orientated flight and C02 emission tracking organization ✈️. By making CO2 emission data publicly available, 
 we hope to make it easier for the general public to hold big polluters accountable and, in doing so, fight climate change 🌍. 
 
-- 🤺 We are dedicated to fighting climate change via OS. Therefore, most of our code is publicly available under an MIT license.
+- 🤺 We are dedicated to fighting climate change via open-source (OS). Therefore, most of our code is publicly available under an OS license.
 - 🙋‍♀️ We are a community-based project that is open to all people, ideas and contributions.
 - 🌍 We love to connect and collaborate with journalists, developers and other organizations fighting climate change.
 
@@ -37,4 +37,4 @@ Please read our [Code Of Conduct](https://github.com/jettracker-org/.github/blob
 <img src="https://img.shields.io/discord/1077263536524370002?style=for-the-badge&logo=discord&labelColor=000&color=FFF#gh-dark-mode-only" alt="Ask me anything">
 </a>
 
-[^1]: Private for now but like all other of our repositories is licensed under a MIT license.
+[^1]: Private for now, but it will be licenced under an OS license in the future.
