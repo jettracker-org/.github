@@ -37,4 +37,4 @@ Please read our [Code Of Conduct](https://github.com/jettracker-org/.github/blob
 <img src="https://img.shields.io/discord/1077263536524370002?style=for-the-badge&logo=discord&labelColor=000&color=FFF#gh-dark-mode-only" alt="Ask me anything">
 </a>
 
-[^1]: Private for now, but it will be licenced under an OS license in the future.
+[^1]: Private for now, but if possible, in the future, it will be licenced under an OS license. Don't hesitate to contact us if you want to work on the web app.
